@@ -22,7 +22,7 @@ Repository: [IoT-Weather-Monitor](https://github.com/Akcabrera10/IoT-Weather-Mon
 
 ### Inventory System Application
 
-the whole program was done on C# WPF with emphasis on using data structures and algorithms to make them work. The data for the inventory system was saved on a SQLite server, referenced each time the customer checks out, signs out or cancels their order. The same goes for the employee side when they perform any CRUD operation, synchronizing data in real time.
+The whole program was done on C# WPF with emphasis on using data structures and algorithms to make them work. The data for the inventory system was saved on a SQLite server, referenced each time the customer checks out, signs out or cancels their order. The same goes for the employee side when they perform any CRUD operation, synchronizing data in real time.
 
 Repository: [Inventory-System](https://github.com/Akcabrera10/Inventory-System)
 
