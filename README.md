@@ -1,13 +1,10 @@
-# My GitHub Page
-
-
 > Welcome to my GitHub page! Here you'll find a collection of my personal projects, experiments, and contributions.
 
 ---
 
 ## About Me
 
-Computer Engineer, IT Practicioner
+Recent graduate of Computer Engineering at Conestoga College, focused on firmware and software development.
 
 ---
 
