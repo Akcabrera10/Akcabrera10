@@ -16,7 +16,7 @@ This project integrates the use of a STM32 microcontroller to collect sensor dat
 
 A front-end web server set up in PHP is then used to display the data to the users, extracted from the database and interpreted to a graph using Chart.js.
 
-Repository: [Project 1](https://github.com/Akcabrera10/IoT-Weather-Monitor)
+Repository: [IoT-Weather-Monitor](https://github.com/Akcabrera10/IoT-Weather-Monitor)
 
 ---
 
@@ -24,7 +24,15 @@ Repository: [Project 1](https://github.com/Akcabrera10/IoT-Weather-Monitor)
 
 the whole program was done on C# WPF with emphasis on using data structures and algorithms to make them work. The data for the inventory system was saved on a SQLite server, referenced each time the customer checks out, signs out or cancels their order. The same goes for the employee side when they perform any CRUD operation, synchronizing data in real time.
 
-Repository: [Project 2](https://github.com/Akcabrera10/Inventory-System)
+Repository: [Inventory-System](https://github.com/Akcabrera10/Inventory-System)
+
+---
+
+### Personal Website
+
+A showcase of my skills and achievements. Built entirely with React.js, this mostly front-end project offers a responsive and mobile-friendly interface, showcasing other projects that I have been working on.
+
+Repository: [Personal Website](https://github.com/Akcabrera10/website-test)
 
 ---
 
