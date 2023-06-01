@@ -32,7 +32,7 @@ Repository: [Inventory-System](https://github.com/Akcabrera10/Inventory-System)
 
 A showcase of my skills and achievements. Built entirely with React.js, this mostly front-end project offers a responsive and mobile-friendly interface, showcasing other projects that I have been working on.
 
-Repository: [Personal Website](https://github.com/Akcabrera10/website-test)
+Repository: [Personal Website](https://arvyncabrera.com/)
 
 ---
 
