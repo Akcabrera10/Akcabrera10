@@ -24,7 +24,7 @@ Repository: [IoT-Weather-Monitor](https://github.com/Akcabrera10/IoT-Weather-Mon
 
 The whole program was done on C# WPF with emphasis on using data structures and algorithms to make them work. The data for the inventory system was saved on a SQLite server, referenced each time the customer checks out, signs out or cancels their order. The same goes for the employee side when they perform any CRUD operation, synchronizing data in real time.
 
-Link: [Inventory-System](https://github.com/Akcabrera10/Inventory-System)
+Repository: [Inventory-System](https://github.com/Akcabrera10/Inventory-System)
 
 ---
 
@@ -32,7 +32,7 @@ Link: [Inventory-System](https://github.com/Akcabrera10/Inventory-System)
 
 A showcase of my skills and achievements. Built entirely with React.js, this mostly front-end project offers a responsive and mobile-friendly interface, showcasing other projects that I have been working on.
 
-Repository: [Personal Website](https://arvyncabrera.com/)
+Link: [Personal Website](https://arvyncabrera.com/)
 
 ---
 
