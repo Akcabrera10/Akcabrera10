@@ -8,7 +8,7 @@ I'm a recent graduate of Computer Engineering at Conestoga College, focused on f
 
 ---
 
-## Projects
+## Highlighted Projects
 
 
 ### Spotify Album Search
