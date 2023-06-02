@@ -10,6 +10,17 @@ I'm a recent graduate of Computer Engineering at Conestoga College, focused on f
 
 ## Projects
 
+
+### Spotify Album Search
+
+This comprehensive full-stack web development project is centered around leveraging the power of Node.js, Express.js, and React.js to create a seamless connection to the Spotify API. The primary goal of this project is to provide users with the ability to search for albums based on their input and retrieve relevant search results from Spotify's vast music catalog.
+
+Repository: [Spotify-Album-Search](https://github.com/Akcabrera10/Spotify-Album-Search)
+
+
+---
+
+
 ### Iot Weather Monitor
 
 This project integrates the use of a STM32 microcontroller to collect sensor data and transmit it over the internet. The firmware for the microcontroller is coded with C. Hosting it's own TCP server, data collected was sent through packets to a TCP client where it saves received items to a SQLite database.
@@ -17,14 +28,6 @@ This project integrates the use of a STM32 microcontroller to collect sensor dat
 A front-end web server set up in PHP is then used to display the data to the users, extracted from the database and interpreted to a graph using Chart.js.
 
 Repository: [IoT-Weather-Monitor](https://github.com/Akcabrera10/IoT-Weather-Monitor)
-
----
-
-### Inventory System Application
-
-The whole program was done on C# WPF with emphasis on using data structures and algorithms to make them work. The data for the inventory system was saved on a SQLite server, referenced each time the customer checks out, signs out or cancels their order. The same goes for the employee side when they perform any CRUD operation, synchronizing data in real time.
-
-Repository: [Inventory-System](https://github.com/Akcabrera10/Inventory-System)
 
 ---
 
