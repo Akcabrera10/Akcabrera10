@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a recent graduate of Computer Engineering at Conestoga College, focused on firmware and software development.
+I'm a recent graduate of Computer Engineering at Conestoga College, focused on firmware and software development, looking for opportunities to improve upon my skills.
 
 ---
 
