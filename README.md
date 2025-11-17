@@ -2,12 +2,6 @@
 
 ---
 
-## About Me
-
-Recent graduate of Computer Engineering at Conestoga College, focused on firmware and software development. Currently looking for opportunities to improve upon my skills.
-
----
-
 ## Highlighted Projects
 
 
@@ -28,14 +22,6 @@ This project integrates the use of a STM32 microcontroller to collect sensor dat
 A front-end web server set up in PHP is then used to display the data to the users, extracted from the database and interpreted to a graph using Chart.js.
 
 Repository: [IoT-Weather-Monitor](https://github.com/Akcabrera10/IoT-Weather-Monitor)
-
----
-
-### Personal Website
-
-A showcase of my skills and achievements. Built entirely with React.js, this mostly front-end project offers a responsive and mobile-friendly interface, showcasing other projects that I have been working on.
-
-Link: [Personal Website](https://arvyncabrera.com/)
 
 ---
 
